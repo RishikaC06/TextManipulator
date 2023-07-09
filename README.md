@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# View the deployed site by clicking on the link below
+[Text Manipulator](https://rishikac06.github.io/TextManipulator/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Text Manipulator and analyzer
+This is a react based app designed using bootstrap. It provides basic text analysis and manipulation functionaities.
 
 ## Available Scripts
 
