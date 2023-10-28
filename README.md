@@ -3,7 +3,8 @@
 
 
 # Text Manipulator and analyzer
-This is a react based app designed using bootstrap. It provides basic text analysis and manipulation functionaities such as removing extra spaces, case conversion, etc
+This is a react based app designed using bootstrap. It provides basic text analysis and manipulation functionaities such as removing extra spaces, case conversion, etc. 
+It also enables you to choose the light or dark mode.
 
 ## Available Scripts
 
